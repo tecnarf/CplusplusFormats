@@ -2,8 +2,8 @@
 #include<iostream>
 #include<stdlib.h>
 #include<time.h>
-int validacion();
 using namespace std;
+int validacion();
 int main()
 {  
 	int N,i,max,min,num;
