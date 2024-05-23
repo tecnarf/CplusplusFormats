@@ -9,11 +9,9 @@ int main() {
    b = 20;
  
    cout << "a,b ->" << a << ", " << b << endl; 
-   cout << "funcion(a,b) ->" 
-        << funcion(a, b) << endl;
+   cout << "funcion(a,b) ->" << funcion(a, b) << endl;
    cout << "a,b ->" << a << ", " << b << endl; 
-   cout << "funcion(10,20) ->" 
-        << funcion(10, 20) << endl; 
+   cout << "funcion(10,20) ->" << funcion(10, 20) << endl; 
 
    return 0; 
 }
