@@ -13,8 +13,8 @@ int validacion(){
 float x;
 cin>>x;
 while(x!=int(x) || x<=0){
-				cout<<"\n\t El nro debe ser entero y positivo, digite nuevamente: ";
-                cin>>x;
+	cout<<"\n\t El nro debe ser entero y positivo, digite nuevamente: ";
+        cin>>x;
                 }
 return int(x);
 } 
